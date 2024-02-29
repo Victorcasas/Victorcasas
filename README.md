@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Víctor Casas
 - 👀 I’m interested in Cloud Infarestructures
-- 🌱 I’m currently learning everythings I see
+- 🌱 I’m currently learning everything I see
 - 💞️ I’m looking to collaborate on microservices
 - 📫 How to reach me: here at github or perhaps at Gitlab
 
